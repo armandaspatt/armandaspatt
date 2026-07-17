@@ -2,7 +2,7 @@
 
 # Hi, I'm Arman 👋
 
-**learning ai and data engineering — professionally curious, chronically debugging**
+**learning ai and data engineering; professionally curious, chronically debugging**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-armandaspatt-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armandaspatt/)
 [![Email](https://img.shields.io/badge/Email-armandaspatt%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:armandaspatt@gmail.com)
@@ -13,11 +13,11 @@
 
 ### About Me
 
-- 🎓 B.Tech, Computer Science & Engineering — ITER, SOA University (2022 – 2026)
-- 🛠️ Data Engineering Intern at **MathCo**, building Azure Databricks/PySpark ETL pipelines processing 100M+ rows/day
+- 🎓 B.Tech, Computer Science & Engineering - ITER, SOA University (2022 – 2026)
+- 🛠️ Ex-Data Engineering Intern at **MathCo**, building Azure Databricks/PySpark ETL pipelines
 - 🔭 Currently building **multi-agent LLM systems** (LangGraph, RAG, MCP) and **real-time streaming data pipelines** (Kafka, dbt, Airflow)
 - 🌱 Currently deepening my skills in **AI systems, Machine Learning, and Data Engineering**
-- 💬 Ask me about ETL architecture, agent orchestration, or why my pipeline chose 3 AM to fail on a Friday — it's never DNS, it's always a silently null column
+- 💬 Ask me about ETL architecture, agent orchestration, or why my pipeline chose 3 AM to fail on a Friday
 
 ---
 
@@ -51,10 +51,10 @@ Ingests unstructured PDF/image blood reports, extracts and validates 26+ paramet
 
 ### Quick Facts
 
-- 📍 Based in Bhubaneswar, India
-- 🏢 Data Engineering Intern at MathCo, processing 100M+ rows/day and (so far) zero data disasters
+- 📍 Based in Bhubaneswar, Odisha, India
+- 🎬 Self-appointed cinema connoisseur- my movie reviews are more rigorous than my code reviews
+- 🎨 Graphic designer since 14- professionally opinionated about fonts, colors, and whitespace since before I could vote
 - 🧪 Side projects run on real government data, real bugs, and real 2 AM commits
-- 🐍 Python is my hammer; everything else is figuring out when it's actually a nail
 - 📈 If a pipeline runs clean on the first try, I don't trust it either
 
 <div align="center">
