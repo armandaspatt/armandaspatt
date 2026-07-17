@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Arman 👋
+# Hi, I'm Arman Das Pattanaik 👋
 
 **learning ai and data engineering; professionally curious, chronically debugging**
 
