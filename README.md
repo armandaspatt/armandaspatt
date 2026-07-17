@@ -64,5 +64,5 @@ Ingests unstructured PDF/image blood reports, extracts and validates 26+ paramet
 ---
 
 <div align="center">
-<i>Open to Data Engineering and AI Engineering roles — bring your messiest dataset, I've probably already met its cousin.</i>
+<i>Open to Data Engineering and AI Engineering roles - bring your messiest dataset, I've probably already met its cousin.</i>
 </div>
