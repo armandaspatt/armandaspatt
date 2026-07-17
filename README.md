@@ -23,15 +23,15 @@
 
 ### Featured Projects
 
-**[aqi-pipeline](https://github.com/armandaspatt/aqi-pipeline)** — Real-time air quality ELT system
+**[aqi-pipeline](https://github.com/armandaspatt/aqi-pipeline)** - Real-time air quality ELT system
 Hourly pipeline ingesting live CPCB government AQI data across 10 Indian cities. Kafka (Redpanda) → Postgres → dbt (implements the official CPCB AQI methodology) → Airflow → Streamlit dashboard, fully containerized with Docker Compose.
 `Python` `Kafka` `dbt` `Airflow` `PostgreSQL` `Docker Compose` `Streamlit`
 
-**[QuizForge](https://github.com/armandaspatt/QuizForge)** — Multi-agent AI coaching platform
+**[QuizForge](https://github.com/armandaspatt/QuizForge)** - Multi-agent AI coaching platform
 A quiz app that doesn't stop at grading — a LangGraph agent diagnoses weak subtopics, researches and writes a lesson using RAG with cited sources, then re-quizzes you. MCP tool server for agent tool-calling, structured outputs, LLM-as-judge validation.
 `TypeScript` `Next.js` `Python` `FastAPI` `LangGraph` `RAG` `pgvector` `MCP`
 
-**[Blood_Report_Analyser](https://github.com/armandaspatt/Blood_Report_Analyser)** — OCR-based lab report ETL pipeline
+**[Blood_Report_Analyser](https://github.com/armandaspatt/Blood_Report_Analyser)** - OCR-based lab report ETL pipeline
 Ingests unstructured PDF/image blood reports, extracts and validates 26+ parameters against reference ranges, and flags abnormalities and cross-parameter correlations through a config-driven rules engine. Deployed on Streamlit Community Cloud.
 `Python` `Pandas` `pdfplumber` `OCR` `Streamlit`
 
